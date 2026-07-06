@@ -1,0 +1,52 @@
+# Geotechnique — Caen
+
+> Geotechnical engineering services in Caen, France.
+
+## Services
+- [Amelioration Sols](https://caen.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://caen.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://caen.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://caen.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://caen.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://caen.geotechnique.biz/colonnes-ballastees/)
+- [Confidentialite](https://caen.geotechnique.biz/confidentialite/)
+- [Densite Cone Sable](https://caen.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://caen.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://caen.geotechnique.biz/essais-proctor/)
+- [Excavations](https://caen.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://caen.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://caen.geotechnique.biz/fondations/)
+- [Geotechnique Routiere](https://caen.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://caen.geotechnique.biz/granulometrie/)
+- [Injections](https://caen.geotechnique.biz/injections/)
+- [Investigation](https://caen.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://caen.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://caen.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://caen.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://caen.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://caen.geotechnique.biz/liquefaction/)
+- [Masw](https://caen.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://caen.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://caen.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://caen.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://caen.geotechnique.biz/pieux/)
+- [Puits Inspection](https://caen.geotechnique.biz/puits-inspection/)
+- [Radiers](https://caen.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://caen.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://caen.geotechnique.biz/resistivite/)
+- [Semelles](https://caen.geotechnique.biz/semelles/)
+- [Sismique](https://caen.geotechnique.biz/sismique/)
+- [Sondages Spt](https://caen.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://caen.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://caen.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://caen.geotechnique.biz/talus/)
+- [Triaxial](https://caen.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://caen.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://caen.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://caen.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Caen, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
